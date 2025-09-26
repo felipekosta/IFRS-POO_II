@@ -1,0 +1,8 @@
+edu\ifsc\gofobserver\GofObserver.class
+edu\ifsc\gofobserver\ConcreteSubject.class
+edu\ifsc\gofobserver\Observer.class
+edu\ifsc\gofobserver\BinaryObserver.class
+edu\ifsc\gofobserver\OctalObserver.class
+edu\ifsc\gofobserver\Subject.class
+edu\ifsc\gofobserver\HexaObserver.class
+edu\ifsc\gofobserver\ConcreteObserver.class

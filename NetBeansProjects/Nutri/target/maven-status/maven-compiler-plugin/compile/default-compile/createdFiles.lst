@@ -1,0 +1,4 @@
+edu\ifsc\nutri\App.class
+edu\ifsc\nutri\model\Alimento.class
+edu\ifsc\nutri\Nutricao.class
+edu\ifsc\nutri\model\Pessoa.class

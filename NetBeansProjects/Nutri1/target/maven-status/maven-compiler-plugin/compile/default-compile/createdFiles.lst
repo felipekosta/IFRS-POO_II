@@ -1,0 +1,8 @@
+edu\ifsc\nutri1\App.class
+edu\ifsc\nutri1\model\Paciente.class
+edu\ifsc\nutri1\Nutricao.class
+edu\ifsc\nutri1\interfaces\Pessoa.class
+edu\ifsc\nutri1\abstracts\ValorNutricional.class
+edu\ifsc\nutri1\abstracts\Alimento.class
+edu\ifsc\nutri1\model\ArrozIntegral.class
+edu\ifsc\nutri1\model\Medico.class
