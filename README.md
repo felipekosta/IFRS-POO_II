@@ -1,1 +1,1 @@
-Aqui serão disponibilizados os códigos exemplos utilizados na disciplina de Programação Orientada a Objetos II do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do IFRS
+Aqui serão disponibilizados os códigos exemplos utilizados na disciplina de Programação Orientada a Objetos II do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas do IFRS - Câmpus Osório
