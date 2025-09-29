@@ -1,0 +1,7 @@
+edu\ifsc\restaurant\App.class
+edu\ifsc\restaurant\model\Restaurant.class
+edu\ifsc\restaurant\model\BeefBurger.class
+edu\ifsc\restaurant\interfaces\Burger.class
+edu\ifsc\restaurant\model\VeggieBurger.class
+edu\ifsc\restaurant\model\BeefBurgerRestaurant.class
+edu\ifsc\restaurant\model\VeggieBurgerRestaurant.class
